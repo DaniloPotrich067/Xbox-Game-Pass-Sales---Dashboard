@@ -46,7 +46,7 @@ dashboard-xbox-subscriptions
 ---
 
 ## Como Reproduzir o Projeto
-1. Faça o download do arquivo `dashboard_xbox.xlsx`
+1. Faça o download do arquivo `Dashboard.xlsx`
 2. Abra o arquivo no Microsoft Excel (2019 ou superior) ou no Excel Online
 3. Acesse a aba **Dashboard**
 4. Utilize os filtros disponíveis para interagir com os dados
