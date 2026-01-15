@@ -63,3 +63,9 @@ dashboard-xbox-subscriptions
 ## Autor
 Projeto desenvolvido como parte de um desafio acadêmico para prática de análise
 de dados e visualização em Excel.
+
+---
+
+## Visualização do Dashboard
+
+<img width="1159" height="919" alt="image" src="https://github.com/user-attachments/assets/028ad4e7-36c9-476f-8c23-3b7a94497647" />
